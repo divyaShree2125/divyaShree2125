@@ -7,4 +7,5 @@
 divyaShree2125/divyaShree2125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Dshree's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyaShree2125)](https://github.com/divyaShree2125/github-readme-stats)
+[![Dshree's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyaShree2125&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)](https://github.com/divyaShree2125/github-readme-stats)
+                          
