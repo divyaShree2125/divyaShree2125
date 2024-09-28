@@ -18,8 +18,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/divya-shree-81b686233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divya-shree-81b686233" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@dshree620" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@dshree620" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dshree2125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dshree2125" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/divy212stmc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="divy212stmc/" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dshree2125" height="30" width="40" /></a>
+<a href="https://medium.com/@divya2004tannu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="divy212stmc/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
