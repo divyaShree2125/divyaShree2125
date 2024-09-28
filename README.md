@@ -3,22 +3,23 @@
 <h3 align="center">A passionate web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyashree2125&label=Profile%20views&color=0e75b6&style=flat" alt="divyashree2125" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/divyashree45437" target="blank"><img src="https://img.shields.io/twitter/follow/divyashree45437?logo=twitter&style=for-the-badge" alt="divyashree45437" /></a> </p>
 
-- 👋 Hi, I’m @divyaShree2125
-- 👀 I’m interested in Web development and Web designing.
-- 💞️ Feel free to explore my repositories.
 - 📫 How to reach me **divya2004tannu@gmail.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/divyashree45437" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="divyashree45437" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/divya-shree-81b686233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divya-shree-81b686233" height="30" width="40" /></a>
+<a href="https://instagram.com/moonhawker._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moonhawker._" height="30" width="40" /></a>
+<a href="https://medium.com/@divya2004tannu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@divya2004tannu" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@dshree620" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@dshree620" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dshree2125" height="30" width="40" /></a>
-<a href="https://medium.com/@divya2004tannu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="divy212stmc/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
