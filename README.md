@@ -1,8 +1,7 @@
 [![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png.webp)](https://dhree2125.io)
 <h1 align="center">Hi 👋, I'm Divya Shree</h1>
 <h3 align="center">A passionate web developer</h3>
-
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/1bccf360b3176699c2311bb48cc462b14bd872cdbc12775a68a2d18c823be833/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f443536323241514866706a4c32333445436c772f6665656473686172652d736872696e6b5f323034385f313533362f302f313639333931313736373132383f653d3231343734383336343726763d6265746126743d4a325a476f6d66565f4f457a434b35374d48486f475741593863386b6d7a616c7076513635744e38623430">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyashree2125&label=Profile%20views&color=0e75b6&style=flat" alt="divyashree2125" /> </p>
